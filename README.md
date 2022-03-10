@@ -32,3 +32,5 @@ https://raw.githubusercontent.com/hanpenggit/gitlabTransfer/main/gitlabTransfer.
 | target_port  | 要推送的目标仓库的端口 |
 | autoClone  | 是否自动克隆，默认为false，如果为true，则会自动执行 git clone --bare命令|
 | path  | 克隆之后文件放在那个目录下 |
+
+<p>执行过后，会在每一个组或者子群组中生成对应的clone.bat和push.bat，手动执行即可 </p>
