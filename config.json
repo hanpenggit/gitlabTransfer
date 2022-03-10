@@ -1,0 +1,9 @@
+{
+  "source_ip": "192.168.1.60",
+  "source_port": 80,
+  "source_cookie": "_gitlab_session=28d32bebb3e48458dcd4802f3cdb3f1b",
+  "target_ip": "192.168.1.80",
+  "target_port": 80,
+  "autoClone": false,
+  "path": "D:/newClone"
+}
