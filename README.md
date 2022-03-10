@@ -1,6 +1,11 @@
 # gitlabTransfer
 gitlab迁移自动迁移工具
 
+### 下载
+```bash
+https://raw.githubusercontent.com/hanpenggit/gitlabTransfer/main/gitlabTransfer.exe
+```
+
 <p>参数中cookie的值可以用你的账户登录gitlab，随便发一个请求，找到 Request Headers 中的Cookie值，找到其中的 _gitlab_session即可 </p>
 
 
